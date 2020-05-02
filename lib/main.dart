@@ -1,8 +1,19 @@
+// Learning by doing
+// help of this demo https://github.com/RehamAhmad/ecommerce_app_ui
+
+
+
+
+
+
+
+
 import 'package:clip_shadow/clip_shadow.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_custom_clippers/flutter_custom_clippers.dart';
 import 'package:flutter_ui/iconButton.dart';
 import 'package:flutter_ui/styles.dart';
+
 
 void main() => runApp(MyApp());
 
